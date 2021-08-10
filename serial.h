@@ -1,0 +1,1 @@
+#define MAX_UART_LENGTH		256						// maximum UART ring buffer size
